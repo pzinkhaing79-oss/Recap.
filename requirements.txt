@@ -1,0 +1,7 @@
+streamlit
+yt-dlp
+moviepy==1.0.3
+edge-tts
+google-generativeai
+Pillow
+requests
